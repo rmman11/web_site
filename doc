@@ -1,0 +1,136 @@
+
+Mvc - este un model de arhitectura care imparte aplicatie in 3 componete logice.
+Modelul -creaza baza de date interactioneaza baza de date
+Controller -preia requestul si vede ce a cerut utilizatorul(proceseaza informatia care vine de la client)
+View-afiasarea informatilor
+
+-structura componetlor logice a proiectelor M-V-C
+-procesul de dezvoltare este mai usor
+-este usor de intretiunt,creare mai viewuri pe aceeasi pagina
+-platforma este so frendly
+-are zona de oop
+
+
+
+how create a project
+
+composer create-project laravel/laravel LaravelCharts --prefer-dist
+
+
+
+exemplu de logare:
+
+password :password123
+name:Alexandre Steuber11 prosacco.milan@example.com
+
+
+https://startbootstrap.com/template/sb-admin
+
+https://www.youtube.com/watch?v=D6wqml2PgmY  de studiat
+https://www.youtube.com/watch?v=y5hD1MxGwc0
+
+Running Seeders
+
+You may execute the db:seed Artisan command to seed your database. By default, 
+the db:seed command runs the Database\Seeders\DatabaseSeeder class, which may in turn invoke other seed classes. 
+However, you may use the --class option to specify a specific seeder class to run individually:
+
+php artisan db:seed
+ 
+php artisan db:seed --class=UserSeeder
+
+Administrare utilizatori Laravel 8 I-14
+Administrare utilizatori Laravel 8 I-18
+Administrare utilizatori Laravel 8 I-23
+ Laravel 8 I-24
+https://getbootstrap.com/docs/4.0/components/forms/
+https://www.npmjs.com/package/bs-custom-file-input
+
+php artisan make:request CreateCategoryRequest -how  to create a new request.
+
+
+php artisan make:model Category -m
+
+php artisan make:migration add_category_id_to_posts --table=posts
+
+php artisan make:migration create_orders_table 
+https://laravel.com/docs/4.2/schema
+https://analytics.google.com/analytics/academy/course/6
+
+
+https://www.youtube.com/watch?v=eM8vPpb37KY
+
+Metoda Put 
+
+PUT este o metodă de modificare a resurselor prin care clientul trimite date care actualizează întreaga resursă. 
+Se utilizează pentru a seta complet informațiile unei entități. PUT este similar cu POST în sensul că poate crea resurse, 
+dar face acest lucru atunci când există un URI definit. PUT suprascrie întreaga entitate dacă aceasta există deja și 
+creează o nouă resursă dacă nu există.
+
+
+Metoda Patch
+
+Acest lucru înseamnă că trebuie să trimiteți doar datele pe care doriți să le actualizați, 
+fără ca acestea să afecteze sau să modifice altceva. 
+Astfel, dacă doriți să actualizați primul nume dintr-o bază de date, v
+i se va cere să trimiteți doar primul parametru, adică primul nume.
+
+
+PUT = înlocuiește TOTUL pentru înregistrarea curentă cu noile valori (dacă nu sunt furnizate, acestea trebuie să fie setate la null), 
+acest lucru nu trebuie să returneze o reprezentare deoarece, prin proiectare, știm cum arată înregistrarea.
+
+PATCH = actualizează resursa cu valorile furnizate și returnează resursa actualizată, 
+aceasta returnează resursa, deoarece metoda PATCH POATE actualiza valori care nu au fost furnizate 
+\inițial în cerere sau poate efectua alte acțiuni asupra datelor.
+
+
+https://laracasts.com/discuss/channels/general-discussion/whats-the-differences-between-put-and-patch?page=1
+
+Laravel 8 I-29,30,31
+
+Create Middleware
+
+Now Create middleware for handle auth admin roles. Open the command prompt and run bellow command.
+
+php artisan make:middleware IsAdmin
+
+https://daisyui.com/docs/cdn/
+https://larainfo.com/blogs/how-to-solve-vite-manifest-not-found-at-error-in-laravel-9
+
+
+
+https://mailtrap.io/inboxes/296062/messages/3048771259 testing with email to reset the 
+
+password.
+
+https://www.youtube.com/watch?v=GaElhuTDCOw&fbclid=IwAR1_oXT32gPNKg3oqVO7drN3e26r9m4KaS-u4Ki7UrkfaS1OxtzPQP-NvGo
+file:///C:/Users/Man/Downloads/Practical%20Laravel%20Develop%20clean%20MVC%20web%20applications%20(Vallejo,%20Paola%20Correa,%20Daniel)%20(z-lib.org).pdf
+de studiat
+
+https://www.youtube.com/watch?v=ZadZDvL_jFo&t=797s -restarea parolei
+
+https://www.youtube.com/watch?v=-Z1rUb9gJT8
+
+
+https://fontawesome.com/v5/icons/sitemap?style=light&s=solid&f=classic
+
+https://itwebtuts.blogspot.com/2022/04/laravel-9-ajax-fullcalendar-example.html?ref=morioh.com&utm_source=morioh.com
+
+Laravel 8 I-36-restarea parolei cu message
+
+
+
+
+https://tinkerwell.app/blog/laravel-caches-and-all-ways-to-clear-them
+https://www.tutsmake.com/laravel-9-multi-user-authentication-example/
+
+https://appdividend.com/2022/02/28/add-charts-laravel-using-chartjs/
+https://www.highcharts.com/blog/tutorials/how-to-add-charts-in-laravel-9-using-highcharts/
+
+
+https://datatables.net/examples/basic_init/table_sorting.html---sorting
+
+https://www.studentstutorial.com/laravel/export
+
+
+http://192.168.0.53/admin/videos

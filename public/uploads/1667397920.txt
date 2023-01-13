@@ -1,0 +1,93 @@
+https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fmeet%2F34288090301%3FlaunchAgent%3Dmarketing_join%26laentry%3Dhero%26p%3DBrLCbd%26anon%3Dtrue&type=meet&deeplinkId=63af5714-e685-4a81-94a8-1a7d0024f58f&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+https://www.irishrcloud.co.uk/recruit/application/message.aspx
+
+
+https://formy-project.herokuapp.com/form
+https://www.remove.bg/upload
+
+
+
+Str. STR. GHEORGHE DOJA, Nr. 76, TARGU MURES, județ MURES 
+-->FOR PHARMA SRL
+
+
+
+
+
+
+
+username:rmman112
+password:M#!83@Ay
+
+
+
+interview online
+
+https://b-ok.xyz/book/3601991/d7c3d6
+
+
+https://jobs.lever.co/8x8/9e65b366-8bd3-4059-a993-36b2f1ee1c95/apply?lever-source=LinkedIn
+
+https://stackoverflow.com/questions/272361/how-can-i-handle-the-warning-of-file-get-contents-function-in-php
+https://www.youtube.com/watch?v=UI7gthmK1_g
+
+
+deeplTranslate
+
+https://www.olx.ro/oferta/loc-de-munca/asistent-web-reghin-IDgvBAW.html
+how to use github?
+
+
+1
+
+    Create a new repository on GitHub. You can also add a gitignore file, a readme, and a license if you want
+     Open Git Bash
+    Change the current working directory to your local project.
+    Initialize the local directory as a Git repository.
+    git init
+    Add the files to your new local repository. This stages them for the first commit.
+    git add .
+     Commit the files that you’ve staged in your local repository.
+    git commit -m "initial commit"
+     Copy the HTTPS URL of your newly created repo
+    In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
+
+    git remote add origin remote repository URL
+
+    git remote -v
+     Push the changes in your local repository to GitHub.
+
+    git push -f origin master
+
+
+
+You should "git remote add" origin, not master:
+
+git remote add origin https://https://github.com/username/your_project
+git remote remove master
+git push -u origin master
+
+
+https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote
+
+
+git init
+
+git remote add origin https://gitlab.com/crew-chief-systems/bot
+
+git remote -v (for checking current repository)
+
+git add -A(add all files)
+
+git commit -m 'Added my project'
+
+git pull --rebase origin master
+
+git push  origin master
+
+https://www.atlassian.com/git/tutorials/using-branches
+
+
+
